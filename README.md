@@ -1,4 +1,4 @@
-### Olá 👋, me chamo Gabriel Pimenta e atualmente estou focado no desenvolvimento Front-End, abaixo você vai encontrar alguns repositórios com projetos e cursos, meu email para contato e perfil do LinkedIn
+### Olá 👋, me chamo Gabriel Pimenta e atualmente estou focado no desenvolvimento Front-End, abaixo você vai encontrar alguns repositórios com projetos e cursos, meu email para contato e perfil do LinkedIn.
  <a href="https://github.com/gabrielecpimenta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielecpimenta&layout=compact&langs_count=7&theme=dark"/>
 </div>
